@@ -241,6 +241,7 @@ function ProfilePage() {
                         </Col>
                       </Row>
                     </li>
+                    <hr />
                   </ul>
                 </Col>
 
@@ -292,10 +293,14 @@ function ProfilePage() {
                           />
                         </Col>
                         <Col className="mx-auto" lg="7" md="4" xs="4">
+                          <a
+                           href="https://github.com/rmacl/js_library"
+                           target="_blank" >
                           <h6>
                           JavaScript selex box library <br />
                             <small>Modulized simple selex box library</small>
                           </h6>
+                          </a>
                         </Col>
                         <Col className="ml-auto mr-auto"  lg="3" md="4" xs="4">
                         </Col>
@@ -318,10 +323,14 @@ function ProfilePage() {
                           />
                         </Col>
                         <Col className="ml-auto mr-auto" lg="7" md="4" xs="4">
+                          <a
+                           href="https://github.com/rmacl/move-and-scale-photo"
+                           target="_blank" >
                           <h6>
                             Move and Scale photo <br />
                             <small>Adjust image by moving frame and scaling photo</small>
                           </h6>
+                          </a>
                         </Col>
                         <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
                         
