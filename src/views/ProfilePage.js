@@ -297,8 +297,8 @@ function ProfilePage() {
                            href="https://github.com/rmacl/js_library"
                            target="_blank" >
                           <h6>
-                          JavaScript selex box library <br />
-                            <small>Modulized simple selex box library</small>
+                          JavaScript select box library <br />
+                            <small>Modulized simple select box library</small>
                           </h6>
                           </a>
                         </Col>
