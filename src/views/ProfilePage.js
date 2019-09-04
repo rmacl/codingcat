@@ -333,8 +333,9 @@ function ProfilePage() {
                           </a>
                         </Col>
                         <Col className="ml-auto mr-auto" lg="3" md="4" xs="4">
-                        
                         </Col>
+                        <hr/>
+                        <li></li>
                       </Row>
                     </li>
                   </ul>
